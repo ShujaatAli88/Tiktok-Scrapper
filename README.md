@@ -1,0 +1,1 @@
+This Is a backend Service that Scraps or Analysis a TikTok User, I Simply Pass The userName to this Service and it Searches the user If it exists it will extract the Data Like Followers , Followings ,Likes , Urls to the videos plus all the details of the video like how many likes the video got etc Lastly I dumped the Extracted Data to ElasticSearch
